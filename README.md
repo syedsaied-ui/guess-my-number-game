@@ -1,4 +1,4 @@
-# Guess My Number Game
+## Guess My Number Game
 
 A number guessing game where the player tries to guess a secret number.
 
