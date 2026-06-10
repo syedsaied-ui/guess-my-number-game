@@ -1,6 +1,5 @@
-## Guess My Number Game
-
-A number guessing game where the player tries to guess a secret number.
+<h1 align="center">🎮 Guess My Number Game</h1>
+<p align="center">A fun JavaScript game to guess the secret number</p>
 
 🎮 Features
 1. Score tracking
